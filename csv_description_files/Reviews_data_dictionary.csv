@@ -1,0 +1,5 @@
+Field,Description
+listing_id,Listing ID
+review_id,Review ID
+date,Review date
+reviewer_id,Reviewer ID
